@@ -50,6 +50,7 @@ Machine learning models were implemented using the Python library Scikit-learn.
 - NumPy
 - Scikit-learn
 - Matplotlib
+- tensorflow
 
 ## Results
 
